@@ -1,5 +1,5 @@
 {
-  "name": "query",
+  "name": "@bryce-loskie/query",
   "version": "0.0.0",
   "packageManager": "pnpm@7.24.2",
   "description": "",
